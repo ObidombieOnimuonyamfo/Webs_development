@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>This is a Heading 1</h1>
+<h1>This is a Heading 2</h1>
+
+<p>This is a paragraph.
+
+So when you are coming to school buy Gib3 for me. <a href="https://drive.google.com/open?id=1Kj6VM9z0SloQfKRy9yVCKBERlGeQX6r7&usp=drive_fs">here</a> </p>
+<p>This is a paragraph</p>
+
+<a href="https://www.w3schools.com">here</a>
+<p> This is a <br> paragraph with a line break</p>
+
+<a href = "https://www.knust.edu.gh"> here</a>
+<img src = "C:\Users\OBIDOMBIE\Pictures\Camera Roll\2.jpg" width = "200" height = "280" >
+<img src = "C:\Users\OBIDOMBIE\Pictures\Camera Roll\DAY 4.jpg" width = "200" height = "280" >
+
+<img src = "\Pictures\Camera Roll\DAY 4.jpg" width = "200" height = "280" >
+
+</body>
+</html>
